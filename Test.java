@@ -1,6 +1,3 @@
-    /*name: Mahmut Hilmi Arıkmert
-    150117024
-    */
 package com.company;
 import java.util.Calendar;
 import java.util.Date;
